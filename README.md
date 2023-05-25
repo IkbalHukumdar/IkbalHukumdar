@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ikbal-h%c3%bck%c3%bcmdar-12122b235/?originalsubdomain=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ikbal-h%c3%bck%c3%bcmdar-12122b235/?originalsubdomain=tr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ikbal-h%C3%BCk%C3%BCmdar-12122b235/?originalSubdomain=tr" alt="https://www.linkedin.com/in/ikbal-h%c3%bck%c3%bcmdar-12122b235/?originalsubdomain=tr" height="30" width="40" /></a>
 <a href="https://medium.com/@ikbalhukumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ikbalhukumdar" height="30" width="40" /></a>
 </p>
 
